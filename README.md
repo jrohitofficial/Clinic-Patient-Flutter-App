@@ -23,6 +23,6 @@ For support, email officialsofrj@gmail.com
 
 ## Authors
 
-- [@sagor1414](https://www.github.com/getintorj)
+- [@RohitJha](https://www.github.com/getintorj)
 
 
